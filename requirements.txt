@@ -1,5 +1,6 @@
+streamlit
 moviepy==1.0.3
-gradio
-pillow
 gtts
+pillow
 imageio-ffmpeg
+numpy
